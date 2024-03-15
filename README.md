@@ -1,5 +1,8 @@
 # LP Pools NFTs
+The objective of this script is to get the list of NFT positions for all liquidity provider of a DEX.
+
 Input = Chain (Choose between ethereum, arbitrum, optimism and base) and DEX (Uniswap v3 is the only support DEX at the moment)
+
 Output = A CSV File with the list of all LP Position NFT IDs with the relevant pool address
 
 
@@ -13,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to install:
 
 - Clone the repository:
-```git clone git@github.com:cyrilauberger/lp_pools_nfts.git```
+```git clone git@github.com:cyril-dfi/lp_pools_nfts.git```
 
 - Install required Python packages:
 ```pip install -r requirements.txt```
