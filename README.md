@@ -1,5 +1,5 @@
 # LP Pools NFTs
-The objective of this script is to get the list of NFT positions for all liquidity provider of a DEX.
+The objective of this script is to get the list of NFT positions for all the liquidity providers of a DEX.
 
 Input = Chain (Choose between ethereum, arbitrum, optimism and base) and DEX (Uniswap v3 is the only support DEX at the moment)
 
